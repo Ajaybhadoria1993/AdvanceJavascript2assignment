@@ -1,0 +1,42 @@
+
+
+#result{
+   background-color:gray; 
+   font-size: 22px;
+   font-weight: bold;
+   width: 342px;
+   height: 50px;
+}
+
+.btn{
+    color: white;
+    background-color: black;
+    width: 63px;
+    height: 71px;
+    font-size: 25px;
+    font-weight: bold;
+
+}
+body{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    margin: 50vh;
+}
+table{
+    width: 300px;
+    height: 400px;
+    
+}
+table,td,tr{
+    border: 2px solid black;
+    border-radius: 5px;
+}
+.btncolor{
+    background-color: chocolate;
+    width: 63px;
+    height: 71px;
+    font-size: 25px;
+    font-weight: bold;
+    color: white;
+}
